@@ -3,4 +3,4 @@ Gis is free software distributed under the GPL
 Git has a mutable index called stage.
 test something
 test something 2
-Creatint a branch is quick
+Creatint a branch is good & quick
